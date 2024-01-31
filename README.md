@@ -4,8 +4,9 @@
 - He intentado hacer el ejercicio de libro git en SI, lo he hecho, pero no sé si está bien. 😅 
 ***
 # [Programación](https://github.com/anaa-chun/ASIGNATURAS/tree/main/PROGRAMACIÓN)
-- [x] Ejercicios de ```POO I```, ```II```, ```III```, ```IV``` y ```V```
+- [x] POO ejercicios ```POO I```, ```II```, ```III```, ```IV``` y ```V```
 - [ ] Programación ejercicios ```VI```
+- [ ] POO ejercicios ```VII```
 
 # [Sistemas Informáticos](https://github.com/anaa-chun/ASIGNATURAS/tree/main/Sistemas%20Informáticos)
 - [x] 1. EJERCICIOS DE CREACION Y ACTUALIZACION DE REPOSITORIOS 
