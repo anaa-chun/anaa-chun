@@ -8,6 +8,7 @@
 - [ ] Programación ejercicios ```VI```
 - [ ] POO ejercicios ```VII```
 - [ ] POO ejercicios ```VIII```
+- [ ] PDF ejercicios teóricos sobre POO
 
 # [Sistemas Informáticos](https://github.com/anaa-chun/ASIGNATURAS/tree/main/Sistemas%20Informáticos)
 - [x] 1. EJERCICIOS DE CREACION Y ACTUALIZACION DE REPOSITORIOS 
