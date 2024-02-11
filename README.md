@@ -18,6 +18,7 @@
 - [x] 5. EJERCICIOS DE DESHACER CAMBIOS
 - [x] Linux Survival juegos
 - [x] Manual ejercicios transferencia de ficheros **(mandado por el Team)**
+- [ ] Comandos SSH Bandit
       
 # [Lenguajes de marcas](https://github.com/anaa-chun/ASIGNATURAS/tree/main/LENGUAJES%20DE%20MARCAS)
 - [x] Primera página web prueba HTML para subir por primera vez en el repositorio de GitHub
