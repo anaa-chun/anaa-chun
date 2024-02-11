@@ -5,10 +5,10 @@
 ***
 # [Programación](https://github.com/anaa-chun/ASIGNATURAS/tree/main/PROGRAMACIÓN)
 - [x] POO ejercicios ```POO I```, ```II```, ```III```, ```IV``` y ```V```
-- [ ] Programación ejercicios ```VI```
-- [ ] POO ejercicios ```VII```
-- [ ] POO ejercicios ```VIII```
-- [ ] PDF ejercicios teóricos sobre POO
+- [x] Programación ejercicios ```VI```
+- [x] POO ejercicios ```VII```
+- [x] POO ejercicios ```VIII```
+- [x] PDF ejercicios teóricos sobre POO
 
 # [Sistemas Informáticos](https://github.com/anaa-chun/ASIGNATURAS/tree/main/Sistemas%20Informáticos)
 - [x] 1. EJERCICIOS DE CREACION Y ACTUALIZACION DE REPOSITORIOS 
@@ -22,4 +22,5 @@
 # [Lenguajes de marcas](https://github.com/anaa-chun/ASIGNATURAS/tree/main/LENGUAJES%20DE%20MARCAS)
 - [x] Primera página web prueba HTML para subir por primera vez en el repositorio de GitHub
 - [x] Ejercicios desde background hasta text incluido ```HTML``` y ```CSS```
-- [x] Ejercicios juego de CSS Diner 
+- [x] Ejercicios juego de CSS Diner
+- [ ] Juegos FLEXBOX Zombie CSS 
