@@ -1,5 +1,5 @@
 # Nota para Mario 👀:
-- Los textos de color azul son **ENLACES** que puedes pinchar directamente en el repositorio donde se encuentra en cada asignatura❕
+- Los textos **AZULES** son **ENLACES** que puedes pinchar directamente en el repositorio donde se encuentra en cada asignatura❕
   <br>
 - #### Los ejercicios de programación de: (1.Sistema de Reserva de Asientos para Cine 🎦, 2) Simulador de Cajero Automático 🏧 y el 3.Analizador de Texto 🗒️) está en el repositorio llamado → ***[EjerciciosPruebasJava](https://github.com/anaa-chun/EjerciciosPruebasJava.git)***
   
