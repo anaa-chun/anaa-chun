@@ -26,4 +26,4 @@
 - [x] Primera página web prueba HTML para subir por primera vez en el repositorio de GitHub
 - [x] Ejercicios desde background hasta text incluido ```HTML``` y ```CSS```
 - [x] Ejercicios juego de CSS Diner
-- [x] Juegos FLEXBOX Zombie CSS (mandado por el Team)
+- [x] Juegos FLEXBOX Zombie CSS **(mandado por el Team)**
