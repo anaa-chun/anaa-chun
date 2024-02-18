@@ -5,7 +5,7 @@
   
 ***
 # ASIGNATURAS: 
-**[1) Programación](https://github.com/anaa-chun/ASIGNATURAS/tree/main/PROGRAMACIÓN)**
+**[1) Programación (asignaturas)](https://github.com/anaa-chun/ASIGNATURAS/tree/main/PROGRAMACIÓN)**
 - [x] POO ejercicios ```POO I```, ```II```, ```III```, ```IV```,  ```V```, ```VI``` y ```VII```
 - [x] POO ejercicios ```VIII``` + PDF ejercicios teóricos sobre POO (Herencia)
 - [ ] Abstracto
