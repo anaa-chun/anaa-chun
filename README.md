@@ -27,3 +27,10 @@
 - [x] Ejercicios desde background hasta text incluido ```HTML``` y ```CSS```
 - [x] Ejercicios juego de CSS Diner
 - [x] Juegos FLEXBOX Zombie CSS **(enviado por el Team)**
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">  
+    <img src="https://profile-counter.glitch.me/anaa-chun/count.svg"/>        
+  </div> 
+</p>
