@@ -10,8 +10,8 @@
 - [x] POO ejercicios ```VIII``` + PDF ejercicios teóricos sobre POO (Herencia)
 - [x] Abstracto
 - [x] Sobrecarga de constructores
-- [ ] Facil, intermedio y difícil de abstracto y sobrecarga
-- [ ] Interfaces
+- [x] Facil, intermedio y difícil de abstracto y sobrecarga
+- [x] Interfaces
       
 
 **[2) Sistemas Informáticos](https://github.com/anaa-chun/ASIGNATURAS/tree/main/Sistemas%20Informáticos)**
