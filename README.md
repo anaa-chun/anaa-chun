@@ -23,4 +23,5 @@
 <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" title="vscode"/></code>
 <code><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="android" title="android"/></code>
 <code><img width="30" src="https://console.kamatera.com/assets/images/os/os_odoo.png" alt="odoo" title="odoo"/></code>
+<code><img width="30" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-8uee0dbo.png" alt="vs2022" title="vs2022"/></code>
 </div>
