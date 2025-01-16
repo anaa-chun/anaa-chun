@@ -4,8 +4,8 @@
     <img src="https://profile-counter.glitch.me/anaa-chun/count.svg"/>        
   </div> 
 </p>
-<hr> 
 
+<hr> 
 
 <div align="center">
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
